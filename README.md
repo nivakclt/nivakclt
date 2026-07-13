@@ -10,6 +10,7 @@ I'm an aspiring Full-Stack Developer from India, currently learning HTML, CSS, B
 - CSS3
 - Bootstrap 5
 - JavaScript (ES6)
+- React.js
 - Git & GitHub
 
 ## 🎯 Goals
