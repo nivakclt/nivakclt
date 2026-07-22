@@ -2,7 +2,7 @@
 
 ### 💻 Aspiring Full-Stack Developer
 
-I'm an aspiring Full-Stack Developer from India, currently learning HTML, CSS, Bootstrap, JavaScript, and Git. I enjoy building responsive websites, exploring new technologies, and improving my coding skills by working on real-world projects.
+I'm an aspiring Full-Stack Developer from India, currently learning HTML, CSS, Bootstrap, JavaScript,React and Git. I enjoy building responsive websites, exploring new technologies, and improving my coding skills by working on real-world projects.
 
 ## 🌱 Currently Learning
 
@@ -47,6 +47,3 @@ I'm an aspiring Full-Stack Developer from India, currently learning HTML, CSS, B
 
 - GitHub: https://github.com/nivakclt
 
----
-
-⭐ Thanks for visiting my profile! I'm always learning, building, and growing as a developer.
