@@ -34,6 +34,7 @@ I'm an aspiring Full-Stack Developer from India, currently learning HTML, CSS, B
 
 ## 🚀 Current Projects
 
+- Resume Builder
 - Netflix Clone
 - Portfolio Website
 - JavaScript Practice Projects
