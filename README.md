@@ -12,6 +12,7 @@ I'm an aspiring Full-Stack Developer from India, currently learning HTML, CSS, B
 - JavaScript (ES6)
 - React.js
 - Git & GitHub
+- React.js
 
 ## 🎯 Goals
 
@@ -29,6 +30,7 @@ I'm an aspiring Full-Stack Developer from India, currently learning HTML, CSS, B
 - JavaScript
 - Git
 - GitHub
+- React.js
 
 ## 🚀 Current Projects
 
