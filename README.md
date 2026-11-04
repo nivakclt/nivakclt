@@ -32,14 +32,4 @@ REST APIs · Authentication · State Management
 - **Netflix Clone** — React
 - **Developer Portfolio** — React / Next.js
 
-## GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nivakclt&show_icons=true&hide_border=true&theme=transparent)
-
-## Connect
-
-[GitHub](https://github.com/nivakclt)
-
----
-
 *Learning continuously. Building consistently.*
