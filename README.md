@@ -1,28 +1,30 @@
 # Hi 👋, I'm Niva
 
-### 💻 Aspiring Full-Stack Developer | React | Next.js | MERN
+### 💻 Aspiring Full-Stack Developer | React.js | Next.js | MERN Stack
 
-I'm an aspiring Full-Stack Developer from India, currently training in MERN Full Stack Development with Next.js. I enjoy turning ideas into real web applications and improving my skills through hands-on projects.
+I'm an aspiring Full-Stack Developer from India, currently learning ME(A)RN Full Stack Development with Next.js. I enjoy building responsive web applications, exploring new technologies, and turning ideas into functional projects.
+
+I believe in learning by building, improving through practice, and growing one project at a time.
 
 ---
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
 
-Also working on: REST APIs, Authentication & Authorization, and Git & GitHub workflows.
+Currently exploring REST APIs, Authentication & Authorization, State Management, and Git & GitHub workflows.
 
-## 🛠️ Skills
+### 🛠️ Tech Stack
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs" />
 
-**Backend**
+**Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
@@ -32,44 +34,55 @@ Also working on: REST APIs, Authentication & Authorization, and Git & GitHub wor
 
 Axios • JSON Server • REST APIs
 
-## 🚀 Projects
+---
 
-| Project | Description | Tech |
+### 🚀 Projects
+
+| Project | Description | Technologies |
 |---|---|---|
-| 📄 Resume Builder | Resume creation application | React |
-| 🛒 E-Commerce App | Shopping app with cart and API data | React, Redux, REST API |
-| 📚 Bookstore | Full-stack app with authentication, profiles and book management | MERN |
-| 🎬 Netflix Clone | Netflix-style frontend | React |
+| 📄 Resume Builder | Application for creating and exporting resumes | React |
+| 🛒 E-Commerce App | Shopping application with cart and product management | React, Redux, REST API |
+| 📚 Bookstore | Full-stack application with authentication and book management | MERN |
+| 🎬 Netflix Clone | Responsive Netflix-inspired frontend | React |
 | 💼 Developer Portfolio | Personal portfolio website | React / Next.js |
-| 🧩 Practice Projects | JavaScript and React practice work | JS, React |
+| 🧩 Practice Projects | Hands-on JavaScript and React projects | JavaScript, React |
 
-## 📚 Currently Exploring
+---
+
+### 📚 Currently Exploring
 
 - Full-Stack Web Development
-- React Hooks & State Management
-- Deployment & Production Workflows
-- Responsive UI/UX
+- React Hooks and State Management
+- Next.js Fundamentals
+- Backend Development and REST APIs
+- Deployment and Production Workflows
+- Responsive UI/UX Design
 - Problem Solving
 
-## 🎯 Goals
+### 🎯 My Goals
 
-- Build real-world, scalable full-stack applications
-- Become a professional Full-Stack Developer
-- Strengthen my MERN & Next.js skills
-- Contribute to open source
-- Improve my problem-solving skills and keep building consistently
+- Build real-world full-stack applications.
+- Become a skilled professional Full-Stack Developer.
+- Strengthen my React, MERN, and Next.js skills.
+- Contribute to open-source projects.
+- Continuously improve my problem-solving abilities.
 
-## 📊 GitHub Stats
+---
 
-![Niva's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivakclt&show_icons=true&theme=radical)
+### 📊 GitHub Statistics
 
-## 📫 Connect With Me
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nivakclt&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nivakclt&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-nivakclt-181717?logo=github)](https://github.com/nivakclt)
 
 ---
 
-🚀 *Learning. Building. Improving.*
+🚀 **Learning. Building. Improving.**
 
-💡 *I love creating things and turning ideas into real applications.*
-
+💡 *Turning ideas into applications, one project at a time.*
