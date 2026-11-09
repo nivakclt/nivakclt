@@ -30,6 +30,6 @@ REST APIs · Authentication · State Management
 - **E-Commerce Application** — React, Redux, REST API
 - **Bookstore Application** — MERN Stack
 - **Netflix Clone** — React
-- **Developer Portfolio** — React / Next.js
+- **Developer Portfolio** — React
 
 *Learning continuously. Building consistently.*
