@@ -94,12 +94,12 @@ A web application designed to create and download resumes.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivakclt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Niva's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivakclt&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nivakclt&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivakclt&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nivakclt&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=nivakclt&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -110,10 +110,10 @@ A web application designed to create and download resumes.
   <a href="https://github.com/nivakclt">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/nivak">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://niva-k-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
