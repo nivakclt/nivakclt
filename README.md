@@ -91,6 +91,12 @@ A web application designed to create and download resumes.
 - [Live Demo](https://resume-builder-react-fe.vercel.app/)
 
 ---
+📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nivakclt&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="70%"/>
+</p>
+
 
 ## 🌐 Connect With Me
 
