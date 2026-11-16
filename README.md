@@ -73,7 +73,6 @@ A responsive e-commerce application featuring product listing, cart management, 
 **Technologies:** React.js, Redux Toolkit, JavaScript, Bootstrap
 
 - [Live Demo](https://ecart-regex.vercel.app/)
-- [GitHub Repository](https://github.com/nivakclt/Ecart_Regex)
 
 ### 📚 BookShelf – MERN Stack Application
 
@@ -89,18 +88,7 @@ A web application designed to create and download resumes.
 
 **Technologies:** React.js, Axios, html2canvas, jsPDF
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivakclt&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivakclt&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nivakclt&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-</p>
+- [Live Demo](https://resume-builder-react-fe.vercel.app/)
 
 ---
 
